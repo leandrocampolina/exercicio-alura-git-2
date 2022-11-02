@@ -1,4 +1,4 @@
-# Criação de Redme #
+# Criação de Readme #
 
 > Aqui você vai encontrar todas as informações necessárias para instalar e usar essa applicação
 
